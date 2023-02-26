@@ -1,0 +1,22 @@
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\bin\Debug\CollegeApplication.exe.config
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\bin\Debug\CollegeApplication.exe
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\bin\Debug\CollegeApplication.pdb
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.Properties.Resources.resources
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.exe
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.pdb
+C:\Users\300359545\source\repos\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.Form1.resources
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\bin\Debug\CollegeApplication.exe.config
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\bin\Debug\CollegeApplication.exe
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\bin\Debug\CollegeApplication.pdb
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.Form1.resources
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.Properties.Resources.resources
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.exe
+C:\Users\300359545\source\repos\C# Projects\CollegeApplication\CollegeApplication\obj\Debug\CollegeApplication.pdb

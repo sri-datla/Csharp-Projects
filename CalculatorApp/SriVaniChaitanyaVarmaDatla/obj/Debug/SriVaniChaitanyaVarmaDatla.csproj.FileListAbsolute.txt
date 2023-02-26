@@ -1,0 +1,15 @@
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\bin\Debug\SriVaniChaitanyaVarmaDatla.exe.config
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\bin\Debug\SriVaniChaitanyaVarmaDatla.exe
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\bin\Debug\SriVaniChaitanyaVarmaDatla.pdb
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.Form1.resources
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.Properties.Resources.resources
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.exe
+C:\Users\300359545\source\repos\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.pdb
+C:\Users\300359545\source\repos\C# Projects\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\C# Projects\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.exe
+C:\Users\300359545\source\repos\C# Projects\SriVaniChaitanyaVarmaDatla\SriVaniChaitanyaVarmaDatla\obj\Debug\SriVaniChaitanyaVarmaDatla.pdb

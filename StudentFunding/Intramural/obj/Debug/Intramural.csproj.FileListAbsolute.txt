@@ -1,0 +1,22 @@
+C:\Users\300359545\source\repos\StudentGov\Intramural\bin\Debug\Intramural.dll
+C:\Users\300359545\source\repos\StudentGov\Intramural\bin\Debug\Intramural.pdb
+C:\Users\300359545\source\repos\StudentGov\Intramural\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\StudentGov\Intramural\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\StudentGov\Intramural\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\StudentGov\Intramural\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\StudentGov\Intramural\obj\Debug\Intramural.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\StudentGov\Intramural\obj\Debug\Intramural.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\StudentGov\Intramural\obj\Debug\Intramural.csproj.CopyComplete
+C:\Users\300359545\source\repos\StudentGov\Intramural\obj\Debug\Intramural.dll
+C:\Users\300359545\source\repos\StudentGov\Intramural\obj\Debug\Intramural.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\bin\Debug\Intramural.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\bin\Debug\Intramural.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\obj\Debug\Intramural.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\obj\Debug\Intramural.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\obj\Debug\Intramural.csproj.CopyComplete
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\obj\Debug\Intramural.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Intramural\obj\Debug\Intramural.pdb

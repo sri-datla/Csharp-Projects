@@ -1,0 +1,22 @@
+C:\Users\300359545\source\repos\StudentGov\FratSorority\bin\Debug\FratSorority.dll
+C:\Users\300359545\source\repos\StudentGov\FratSorority\bin\Debug\FratSorority.pdb
+C:\Users\300359545\source\repos\StudentGov\FratSorority\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\StudentGov\FratSorority\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\StudentGov\FratSorority\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\StudentGov\FratSorority\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\StudentGov\FratSorority\obj\Debug\FratSorority.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\StudentGov\FratSorority\obj\Debug\FratSorority.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\StudentGov\FratSorority\obj\Debug\FratSorority.csproj.CopyComplete
+C:\Users\300359545\source\repos\StudentGov\FratSorority\obj\Debug\FratSorority.dll
+C:\Users\300359545\source\repos\StudentGov\FratSorority\obj\Debug\FratSorority.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\bin\Debug\FratSorority.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\bin\Debug\FratSorority.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\obj\Debug\FratSorority.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\obj\Debug\FratSorority.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\obj\Debug\FratSorority.csproj.CopyComplete
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\obj\Debug\FratSorority.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\FratSorority\obj\Debug\FratSorority.pdb

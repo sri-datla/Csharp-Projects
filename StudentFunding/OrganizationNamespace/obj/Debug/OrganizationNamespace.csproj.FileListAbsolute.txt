@@ -1,0 +1,12 @@
+C:\Users\300359545\source\repos\StudentGov\OrganizationNamespace\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\StudentGov\OrganizationNamespace\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\OrganizationNamespace\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\OrganizationNamespace\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\OrganizationNamespace\obj\Debug\OrganizationNamespace.pdb

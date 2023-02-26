@@ -1,0 +1,12 @@
+C:\Users\300359545\source\repos\StudentGov\IFunding\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\StudentGov\IFunding\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\StudentGov\IFunding\obj\Debug\IFunding.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\StudentGov\IFunding\obj\Debug\IFunding.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\StudentGov\IFunding\obj\Debug\IFunding.dll
+C:\Users\300359545\source\repos\StudentGov\IFunding\obj\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\IFunding\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\IFunding\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\IFunding\obj\Debug\IFunding.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\IFunding\obj\Debug\IFunding.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\IFunding\obj\Debug\IFunding.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\IFunding\obj\Debug\IFunding.pdb

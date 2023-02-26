@@ -1,0 +1,11 @@
+C:\Users\300359545\source\repos\TempAgency\TempAgency\bin\Debug\TempAgency.exe.config
+C:\Users\300359545\source\repos\TempAgency\TempAgency\bin\Debug\TempAgency.exe
+C:\Users\300359545\source\repos\TempAgency\TempAgency\bin\Debug\TempAgency.pdb
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.Form1.resources
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.Properties.Resources.resources
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.exe
+C:\Users\300359545\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.pdb

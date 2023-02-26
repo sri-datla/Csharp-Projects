@@ -1,0 +1,22 @@
+C:\Users\300359545\source\repos\MyProj\MyProj\bin\Debug\MyProj.exe.config
+C:\Users\300359545\source\repos\MyProj\MyProj\bin\Debug\MyProj.exe
+C:\Users\300359545\source\repos\MyProj\MyProj\bin\Debug\MyProj.pdb
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.Form1.resources
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.Properties.Resources.resources
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.exe
+C:\Users\300359545\source\repos\MyProj\MyProj\obj\Debug\MyProj.pdb
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\bin\Debug\MyProj.exe.config
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\bin\Debug\MyProj.exe
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\bin\Debug\MyProj.pdb
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.Form1.resources
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.Properties.Resources.resources
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.exe
+C:\Users\300359545\source\repos\C# Projects\MyProj\MyProj\obj\Debug\MyProj.pdb

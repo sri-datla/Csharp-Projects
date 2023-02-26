@@ -1,0 +1,44 @@
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\StudentGov.exe.config
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\StudentGov.exe
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\StudentGov.pdb
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\StudentGov.Properties.Resources.resources
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\StudentGov.exe
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\StudentGov.pdb
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\Club.dll
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\FratSorority.dll
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\Intramural.dll
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\Club.pdb
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\FratSorority.pdb
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\Intramural.pdb
+C:\Users\300359545\source\repos\StudentGov\StudentGov\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\StudentGov.Form1.resources
+C:\Users\300359545\source\repos\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.CopyComplete
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\StudentGov.exe.config
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\StudentGov.exe
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\StudentGov.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\Club.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\FratSorority.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\Intramural.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\Club.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\FratSorority.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\Intramural.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\StudentGov.Form1.resources
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\StudentGov.Properties.Resources.resources
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.GenerateResource.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\PresentationGUI.csproj.CopyComplete
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\StudentGov.exe
+C:\Users\300359545\source\repos\C# Projects\StudentGov\StudentGov\obj\Debug\StudentGov.pdb

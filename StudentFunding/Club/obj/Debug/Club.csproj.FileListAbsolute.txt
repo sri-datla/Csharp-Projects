@@ -1,0 +1,22 @@
+C:\Users\300359545\source\repos\StudentGov\Club\bin\Debug\Club.dll
+C:\Users\300359545\source\repos\StudentGov\Club\bin\Debug\Club.pdb
+C:\Users\300359545\source\repos\StudentGov\Club\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\StudentGov\Club\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\StudentGov\Club\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\StudentGov\Club\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\StudentGov\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\StudentGov\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\StudentGov\Club\obj\Debug\Club.csproj.CopyComplete
+C:\Users\300359545\source\repos\StudentGov\Club\obj\Debug\Club.dll
+C:\Users\300359545\source\repos\StudentGov\Club\obj\Debug\Club.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\bin\Debug\Club.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\bin\Debug\Club.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\bin\Debug\IFunding.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\bin\Debug\OrganizationNamespace.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\bin\Debug\IFunding.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\bin\Debug\OrganizationNamespace.pdb
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\obj\Debug\Club.csproj.CopyComplete
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\obj\Debug\Club.dll
+C:\Users\300359545\source\repos\C# Projects\StudentGov\Club\obj\Debug\Club.pdb
